@@ -1,4 +1,4 @@
-/** Tests for Graph. Contributor: Member 2 */
+/** Tests for Graph. */
 public class GraphTest {
     static int failed = 0;
 
