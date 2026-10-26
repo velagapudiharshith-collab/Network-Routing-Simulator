@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-/** Tests for Dijkstra (both versions). Contributor: Member 3 */
+/** Tests for Dijkstra (both versions).  */
 public class DijkstraTest {
     static int failed = 0;
 
