@@ -4,7 +4,6 @@ import java.util.Random;
  * Builds random connected networks and times Fibonacci-heap vs binary-heap Dijkstra
  * while link costs keep changing (simulated congestion).
  *
- * Contributor: Member 4
  */
 public class Benchmark {
 
