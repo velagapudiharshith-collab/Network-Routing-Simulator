@@ -10,7 +10,6 @@ import java.util.PriorityQueue;
  * Dijkstra's algorithm in two versions: Fibonacci Heap (main) and binary heap (baseline).
  * Pass dst = -1 to compute the whole shortest-path tree (used by the benchmark).
  *
- * Contributor: Member 3
  */
 public class Dijkstra {
     private static final double INF = Double.POSITIVE_INFINITY;
