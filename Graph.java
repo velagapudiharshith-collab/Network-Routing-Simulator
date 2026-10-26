@@ -8,7 +8,6 @@ import java.util.Random;
  * Undirected weighted network stored as an adjacency list.
  * Node names are case-insensitive (stored upper-case) and mapped to int ids with a HashMap.
  *
- * Contributor: Member 2
  */
 public class Graph {
     private final List<List<Edge>> adj = new ArrayList<>();
