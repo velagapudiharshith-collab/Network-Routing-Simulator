@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 /**
  * Menu-driven console demo of the Network Routing Simulator.
- * Contributor: Member 4
  */
 public class Main {
     private static final Scanner in = new Scanner(System.in);
