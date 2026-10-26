@@ -2,7 +2,6 @@ import java.util.List;
 
 /**
  * Result of one shortest-path run, including counters used for benchmarking.
- * Contributor: Member 3
  */
 public class PathResult {
     public final boolean reachable;
