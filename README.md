@@ -18,10 +18,10 @@ java DijkstraTest
 ## Who owns what
 | Member | Files |
 |---|---|
-|Harshith | FibonacciHeap.java, FibonacciHeapTest.java |
+|Harshith | FibonacciHeap.java, FibonacciHeapTest.java, README.md  |
 |Shahil   | Edge.java, Graph.java, GraphTest.java |
 |Manas    | Dijkstra.java, PathResult.java, DijkstraTest.java |
-|Devansh  |Main.java, Benchmark.java, README.md |
+|Devansh  |Main.java, Benchmark.java |
 
 ## Complexity
 Fibonacci heap: insert O(1), extract-min O(log V) amortized, decrease-key O(1) amortized.
